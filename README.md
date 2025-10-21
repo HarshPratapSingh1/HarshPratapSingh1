@@ -29,10 +29,10 @@
 
 ## 📈 Coding Profiles
 
-- [LeetCode](https://leetcode.com/u/Harsh_Pratap_Singh-18/) – Max Rating: **1836** (Top 5.59%)
-- [CodeChef](https://www.codechef.com/users/codinglagg) – 2★ Coder
+- [LeetCode](https://leetcode.com/u/Harsh_Pratap_Singh-18/) – Max Rating: **1880** (Top 5%)
+- [CodeChef](https://www.codechef.com/users/codinglagg) – 3★ Coder
 - [CodeForces](https://codeforces.com/profile/CodingLagg) – Pupil (Max 1237)
-- [GeeksForGeeks](https://www.geeksforgeeks.org/user/harshpratap715/) – University Rank under 72, 310+ day streak
+- [GeeksForGeeks](https://www.geeksforgeeks.org/user/harshpratap715/) – University Rank under 40, 400+ day streak
 
 ---
 
